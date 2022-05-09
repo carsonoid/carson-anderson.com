@@ -12,7 +12,7 @@ description: ""
 toc: true
 ---
 
-This was my first talk for a large conference. It is nearly 5 years old now, but many of the key concepts still hold true. As of 2022 the core Iubernetes components have not radically changed and they still fit together the same way.
+This was my first talk for a large conference. It is nearly 5 years old now, but many of the key concepts still hold true. As of 2022 the core Kubernetes components have not radically changed and they still fit together the same way.
 
 <!--more-->
 
