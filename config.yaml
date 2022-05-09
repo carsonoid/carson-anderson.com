@@ -1,4 +1,4 @@
-baseURL: "carson-anderson.com"
+baseURL: "https://carson-anderson.com"
 languageCode: "en-us"
 title: "Carson Anderson"
 theme: hugo-profile
